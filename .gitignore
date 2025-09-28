@@ -77,8 +77,8 @@ build/
 # Cache
 .cache/
 
-# Excluded files (not to be tracked)
-.env.example
-README.md
+# Render specific
+.render/
+
+# Development files
 package-lock.json
-package.json
